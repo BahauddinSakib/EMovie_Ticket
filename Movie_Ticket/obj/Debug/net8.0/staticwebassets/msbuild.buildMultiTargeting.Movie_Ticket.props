@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Movie_Ticket.props" />
+</Project>
